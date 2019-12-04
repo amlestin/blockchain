@@ -16,7 +16,7 @@ import re  # noqa: F401
 
 import six
 
-from swagger_client.models.workflow_data_type import WorkflowDataType  # noqa: F401,E501
+#from swagger_client.models.workflow_data_type import WorkflowDataType  # noqa: F401,E501
 
 
 class WorkflowDataType(object):
